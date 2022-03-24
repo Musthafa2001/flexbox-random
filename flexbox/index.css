@@ -1,0 +1,74 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+.container-1{
+    height: 100vh;
+    width: 98% auto;
+ 
+    display:flex;
+  margin:2%;
+}
+
+.child-1{
+    width: 60%;
+    height: 100%;
+  
+    margin-right: 5px;
+}
+.child-2{
+    width: 40%;
+    height: 100%;
+    padding-bottom: 1%;
+    background-color:blue;
+}
+.greenbox{
+    background-color: red;
+    height: 40%;
+    width:100%;
+    display: flex;
+    color:white;
+
+
+
+}
+
+.randomcolorbox{
+    width: 100%;
+     height:40%;
+     display: flex;
+     margin-top:5px;
+     margin-bottom:5px;
+}
+.color-2{
+    width:50%;
+    height:100%;
+
+}
+.greyc{
+    width:50%;
+    height:100%;
+    background-color: gray;
+  margin-left: 2px;
+  margin-top: 1px;
+    
+}
+.pink{
+    width:100%;
+    height:50%;
+    background-color: pink;
+  
+}
+.blue{
+    width:100%;
+    height:50%;
+    background-color:aqua;
+    margin-top:2px;
+}
+.orangebox{
+    height:20%;
+    width: 100%;
+    background-color: orange;
+
+}
